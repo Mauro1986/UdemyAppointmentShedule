@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyAppointmentShedule", "UdemyAppointmentShedule\UdemyAppointmentShedule.csproj", "{70D18FB5-78AB-4486-8CEE-38E7ACC21ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D18FB5-78AB-4486-8CEE-38E7ACC21ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D18FB5-78AB-4486-8CEE-38E7ACC21ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D18FB5-78AB-4486-8CEE-38E7ACC21ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D18FB5-78AB-4486-8CEE-38E7ACC21ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBBBAB40-84F4-4986-8026-4A754D4670D8}
+	EndGlobalSection
+EndGlobal
